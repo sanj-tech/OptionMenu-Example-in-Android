@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item9"
+        android:title="search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        />
+
+
+
+    <item
+        android:id="@+id/item1"
+        android:title="Beaten Coffiee" />
+
+    <item
+        android:id="@+id/item2"
+        android:title="Rose Lassi" />
+    <item
+        android:id="@+id/item3"
+        android:title="Punjabi Lassi" />
+
+    <item
+        android:id="@+id/item4"
+        android:title="Mango Lassi" />
+
+
+    <item
+        android:id="@+id/item5"
+        android:title="More" >
+
+    <menu>
+    <item
+        android:id="@+id/item6"
+        android:title="PineApple Juice" />
+    <item
+        android:id="@+id/item7"
+        android:title="Strawberry milkShake" />
+    <item
+        android:id="@+id/item8"
+        android:title="Saffron milkShake" />
+
+    </menu>
+
+</item>
+
+
+</menu>
